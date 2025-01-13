@@ -1,6 +1,5 @@
 ---
 title: "Gallerie"
-order: 6
+order: 4
 in_menu: true
 ---
- 
