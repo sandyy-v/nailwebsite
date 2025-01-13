@@ -1,6 +1,5 @@
 ---
 title: "Contact / Nos locaux"
-order: 7
+order: 5
 in_menu: true
 ---
- 

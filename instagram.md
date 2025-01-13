@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-order: 6
+order: 8
 in_menu: true
 ---
 L'Échappée Belle est actuellement composée de 6 membres.

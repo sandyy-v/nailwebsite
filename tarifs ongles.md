@@ -1,6 +1,5 @@
 ---
 title: "Tarifs ongles"
-order: 8
+order: 6
 in_menu: true
 ---
- 
